@@ -1,3 +1,4 @@
+#hi
 def merge(left, right):
     # store merged arr in this list
     result = []
